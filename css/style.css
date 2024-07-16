@@ -967,6 +967,11 @@ button {
     line-height: 30px;
     text-align: justify;
 }
+.footertext1{
+  font-size: 18px;
+  text-transform: uppercase;;
+  font-weight: 700;
+} 
 @media (max-width:991px){
     #navbarSupportedContent{
         float: left;
